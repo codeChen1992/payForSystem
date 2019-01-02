@@ -549,9 +549,9 @@
 				<version>1.24</version>
 			</dependency> -->
 			<dependency>
-		      <groupId>org.csource</groupId>
-		      <artifactId>fastdfs-client-java</artifactId>
-		      <version>1.27</version>
+				  <groupId>fakepath</groupId>
+				  <artifactId>fastdfs-client-java</artifactId>
+				  <version>1.27</version>
 			</dependency>
 			<dependency>
 				<groupId>quartz</groupId>

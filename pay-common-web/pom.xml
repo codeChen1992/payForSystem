@@ -232,12 +232,10 @@
 		</dependency>
 		<!-- Others End -->
 		<!-- FastDFS client begin -->
-		<!-- <dependency>
-			<groupId>org.csource</groupId>
-			<artifactId>fastdfs_client</artifactId>
-			此版本号要保留
-			<version>1.24</version>
-		</dependency> -->
+		<dependency>
+			<groupId>fakepath</groupId>
+		    <artifactId>fastdfs-client-java</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>org.jsoup</groupId>
 			<artifactId>jsoup</artifactId>
