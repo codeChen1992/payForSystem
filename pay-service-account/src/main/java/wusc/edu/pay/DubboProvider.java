@@ -1,4 +1,4 @@
-package wusc.edu.pay.test.facade.account;
+package wusc.edu.pay;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
